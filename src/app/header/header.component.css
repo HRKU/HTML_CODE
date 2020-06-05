@@ -1,0 +1,20 @@
+.navbar-custom { 
+    background-color: #072654; 
+
+} 
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    color: #f1f4f8; 
+} 
+.nav-link 
+{
+color: #f1f4f8;
+}
+.navbar-nav > li > .dropdown-menu {
+    background-color: whitesmoke;
+}
+.navbar-nav > li > .dropdown-menu a:hover
+{
+    background-color: #b2bdca; 
+    
+}
